@@ -1,4 +1,4 @@
-##👋 Hi there! My name is Kalchabek, and I'm an iOS App Developer based in Moscow. 
+## 👋 Hi there! My name is Kalchabek, and I'm an iOS App Developer based in Moscow. 
 
 🧑‍🎨 I'm a maker at heart, and someone that truly enjoys working on the intersection of design and technology. I have a strong focus on the product and aim to build products that bring real value to people. A pragmatist that also understands the value of the last 5 percent.
 
