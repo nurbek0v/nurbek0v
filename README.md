@@ -10,7 +10,6 @@
 ![Swift](https://img.shields.io/badge/-Swift-0C0E12?style=for-the-badge&logo=swift)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0C0E12?style=for-the-badge&logo=Swift)
 ![UIKit](https://img.shields.io/badge/-UIKit-0C0E12?style=for-the-badge&logo=UIKit)
-![Python](https://img.shields.io/badge/-Python-0C0E12?style=for-the-badge&logo=python)
 ![Firebase](https://img.shields.io/badge/-Firebase-0C0E12?style=for-the-badge&logo=firebase)
 ![GIT](https://img.shields.io/badge/-GIT-0C0E12?style=for-the-badge&logo=git)
 ![Postman](https://img.shields.io/badge/-Postman-0C0E12?style=for-the-badge&logo=postman)
