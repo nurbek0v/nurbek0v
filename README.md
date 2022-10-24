@@ -32,7 +32,7 @@
 [![Linkedin](https://img.shields.io/badge/-LINKEDIN-0C0E12?style=for-the-badge&logo=linkedin&logoColor=0C0E1)](https://linkedin.com/in/kalchabek-nurbekov-42962b237)
 [![Vkontakte](https://img.shields.io/badge/-VKontakte-0C0E12?style=for-the-badge&logo=Vk&logoColor=0C0E1)](https://vk.com/kalchabek)
 [![Telegram](https://img.shields.io/badge/-Telegram-0C0E12?style=for-the-badge&logo=Telegram&logoColor=0C0E1)](https://t.me/ios_dev_kalchabek)
-[![](https://img.shields.io/badge/-@-0C0E12?style=for-the-badge&logo=Email&logoColor=0C0E1)](<a href="mailto:nurbekovich00@gmail.com">nurbekovich00@gmail.com</a>)
+[![@](https://img.shields.io/badge/-@-0C0E12?style=for-the-badge&logo=Email&logoColor=0C0E1)](<a href="mailto:nurbekovich00@gmail.com">nurbekovich00@gmail.com</a>)
 
 
 
