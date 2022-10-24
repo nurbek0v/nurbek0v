@@ -9,6 +9,7 @@
 ### Languages and Tools 
 ![Swift](https://img.shields.io/badge/-Swift-0C0E12?style=for-the-badge&logo=swift)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0C0E12?style=for-the-badge&logo=Swift)
+![UIKit](https://img.shields.io/badge/-UIKit-0C0E12?style=for-the-badge&logo=UIKit)
 ![Python](https://img.shields.io/badge/-Python-0C0E12?style=for-the-badge&logo=python)
 ![Firebase](https://img.shields.io/badge/-Firebase-0C0E12?style=for-the-badge&logo=firebase)
 ![GIT](https://img.shields.io/badge/-GIT-0C0E12?style=for-the-badge&logo=git)
@@ -32,7 +33,7 @@
 [![Linkedin](https://img.shields.io/badge/-LINKEDIN-0C0E12?style=for-the-badge&logo=linkedin&logoColor=0C0E1)](https://linkedin.com/in/kalchabek-nurbekov-42962b237)
 [![Vkontakte](https://img.shields.io/badge/-VKontakte-0C0E12?style=for-the-badge&logo=Vk&logoColor=0C0E1)](https://vk.com/kalchabek)
 [![Telegram](https://img.shields.io/badge/-Telegram-0C0E12?style=for-the-badge&logo=Telegram&logoColor=0C0E1)](https://t.me/ios_dev_kalchabek)
-[![@](https://img.shields.io/badge/-@-0C0E12?style=for-the-badge&logo=Email&logoColor=0C0E1)](<a href="mailto:nurbekovich00@gmail.com">nurbekovich00@gmail.com</a>)
+
 
 
 
