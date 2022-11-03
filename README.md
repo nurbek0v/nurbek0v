@@ -21,7 +21,7 @@
 ![Alomofire](https://img.shields.io/badge/-Alamofire-0C0E12?style=for-the-badge&logo=alomofire)
 ![VIPER](https://img.shields.io/badge/-VIPER-0C0E12?style=for-the-badge&logo=Viper)
 ![MVC](https://img.shields.io/badge/-MVC-0C0E12?style=for-the-badge&logo=MVC)
-
+![CoreML](https://img.shields.io/badge/-CoreML-0C0E12?style=for-the-badge&logo=CoreML)
 
 
 
