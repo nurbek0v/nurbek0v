@@ -27,13 +27,14 @@
 
 
 
-#### Follow Me
+### Follow Me
 
 [![Linkedin](https://img.shields.io/badge/-LINKEDIN-0C0E12?style=for-the-badge&logo=linkedin&logoColor=0C0E1)](https://linkedin.com/in/kalchabek-nurbekov-42962b237)
 [![Vkontakte](https://img.shields.io/badge/-VKontakte-0C0E12?style=for-the-badge&logo=Vk&logoColor=0C0E1)](https://vk.com/kalchabek)
 [![Telegram](https://img.shields.io/badge/-Telegram-0C0E12?style=for-the-badge&logo=Telegram&logoColor=0C0E1)](https://t.me/ios_dev_kalchabek)
 
 
-#### CodeWars 
+### CodeWars 
 
+![1](https://www.codewars.com/users/nurbek0v/badges/large)
 
