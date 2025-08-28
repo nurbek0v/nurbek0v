@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Kalchabek - Software Engineer & iOS Developer 
+# 👋 Hi there! I'm Kalchabek - Software Engineer & iOS Developer
 
 🧑‍💻 **Maker & Problem Solver** - I thrive at the intersection of design and technology, building solutions that deliver real value to users. Pragmatic in approach yet attentive to those crucial finishing touches that elevate products from good to great.
 
